@@ -1,0 +1,6 @@
+@ShipmentTelemetry.Api_HostAddress = http://localhost:5028
+
+GET {{ShipmentTelemetry.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

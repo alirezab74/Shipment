@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mGViKIEGSY0=",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\Shipment\\src\\ShipmentTelemetry.Contracts\\ShipmentTelemetry.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Alireza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+{
+  "ShipmentTelemetry.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projects\\Shipment\\src\\ShipmentTelemetry.Api",
+  "ShipmentTelemetry.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projects\\Shipment\\src\\ShipmentTelemetry.Application",
+  "ShipmentTelemetry.Contracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projects\\Shipment\\src\\ShipmentTelemetry.Contracts",
+  "ShipmentTelemetry.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projects\\Shipment\\src\\ShipmentTelemetry.Domain",
+  "ShipmentTelemetry.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "F:\\Projects\\Shipment\\src\\ShipmentTelemetry.Infrastructure"
+}

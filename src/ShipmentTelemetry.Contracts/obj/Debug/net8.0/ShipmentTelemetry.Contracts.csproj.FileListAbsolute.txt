@@ -1,0 +1,11 @@
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\bin\Debug\net8.0\ShipmentTelemetry.Contracts.deps.json
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\bin\Debug\net8.0\ShipmentTelemetry.Contracts.dll
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\bin\Debug\net8.0\ShipmentTelemetry.Contracts.pdb
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\obj\Debug\net8.0\ShipmentTelemetry.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\obj\Debug\net8.0\ShipmentTelemetry.Contracts.AssemblyInfoInputs.cache
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\obj\Debug\net8.0\ShipmentTelemetry.Contracts.AssemblyInfo.cs
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\obj\Debug\net8.0\ShipmentTelemetry.Contracts.csproj.CoreCompileInputs.cache
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\obj\Debug\net8.0\ShipmentTelemetry.Contracts.dll
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\obj\Debug\net8.0\refint\ShipmentTelemetry.Contracts.dll
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\obj\Debug\net8.0\ShipmentTelemetry.Contracts.pdb
+F:\Projects\Shipment\src\ShipmentTelemetry.Contracts\obj\Debug\net8.0\ref\ShipmentTelemetry.Contracts.dll

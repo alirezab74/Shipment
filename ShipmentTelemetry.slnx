@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ShipmentTelemetry.Api/ShipmentTelemetry.Api.csproj" />
+    <Project Path="src/ShipmentTelemetry.Application/ShipmentTelemetry.Application.csproj" />
+    <Project Path="src/ShipmentTelemetry.Contracts/ShipmentTelemetry.Contracts.csproj" />
+    <Project Path="src/ShipmentTelemetry.Domain/ShipmentTelemetry.Domain.csproj" />
+    <Project Path="src/ShipmentTelemetry.Infrastructure/ShipmentTelemetry.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ShipmentTelemetry.ArchitectureTests/ShipmentTelemetry.ArchitectureTests.csproj" />
+    <Project Path="tests/ShipmentTelemetry.IntegrationTests/ShipmentTelemetry.IntegrationTests.csproj" />
+    <Project Path="tests/ShipmentTelemetry.UnitTests/ShipmentTelemetry.UnitTests.csproj" />
+  </Folder>
+</Solution>

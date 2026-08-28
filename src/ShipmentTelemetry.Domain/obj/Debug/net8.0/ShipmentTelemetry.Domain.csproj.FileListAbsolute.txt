@@ -1,0 +1,11 @@
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\bin\Debug\net8.0\ShipmentTelemetry.Domain.deps.json
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\bin\Debug\net8.0\ShipmentTelemetry.Domain.dll
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\bin\Debug\net8.0\ShipmentTelemetry.Domain.pdb
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\obj\Debug\net8.0\ShipmentTelemetry.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\obj\Debug\net8.0\ShipmentTelemetry.Domain.AssemblyInfoInputs.cache
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\obj\Debug\net8.0\ShipmentTelemetry.Domain.AssemblyInfo.cs
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\obj\Debug\net8.0\ShipmentTelemetry.Domain.csproj.CoreCompileInputs.cache
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\obj\Debug\net8.0\ShipmentTelemetry.Domain.dll
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\obj\Debug\net8.0\refint\ShipmentTelemetry.Domain.dll
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\obj\Debug\net8.0\ShipmentTelemetry.Domain.pdb
+F:\Projects\Shipment\src\ShipmentTelemetry.Domain\obj\Debug\net8.0\ref\ShipmentTelemetry.Domain.dll
